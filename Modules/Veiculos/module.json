@@ -1,0 +1,13 @@
+{
+    "name": "Veiculos",
+    "alias": "veiculos",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Veiculos\\Providers\\VeiculosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

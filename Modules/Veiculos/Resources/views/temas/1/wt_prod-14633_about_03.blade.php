@@ -1,0 +1,1 @@
+<h3 class="mx-auto cg-t text-center t2 mtb" style="margin-bottom: 70px;"><span class="cy-t">{!! ( !empty($datas['titulo_cor_1']) ? $datas['titulo_cor_1'] : Null ) !!} </span>{!! ( !empty($datas['titulo_cor_2']) ? $datas['titulo_cor_2'] : Null ) !!}</h3>

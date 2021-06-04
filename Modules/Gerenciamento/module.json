@@ -1,0 +1,13 @@
+{
+    "name": "Gerenciamento",
+    "alias": "gerenciamento",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Gerenciamento\\Providers\\GerenciamentoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

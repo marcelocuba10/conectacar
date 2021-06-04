@@ -1,0 +1,47 @@
+.passwordBox{
+  padding: 0px !important;
+}
+
+.cursor_pointer{
+	cursor: pointer !important;
+}
+
+
+/* botões referentes na navegação do topo */
+@media only screen and (max-width: 499px) {
+	.botoesAdicionaisResponsivo{width: 100% !important;}
+	.botoesAdicionaisResponsivoInterno{width: 66% !important;}
+	.botoesAdicionaisResponsivoBotoes{padding-top: 0px !important;padding-bottom: 0px !important; margin-top: 0px !important;}
+}
+
+@media only screen and (max-width: 465px) {
+	.botoesAdicionaisResponsivo{width: 100% !important;}
+	.botoesAdicionaisResponsivoInterno{width: 60% !important;}
+}
+
+@media only screen and (max-width: 395px) {
+	.botoesAdicionaisResponsivo{width: 100% !important;}
+	.botoesAdicionaisResponsivoInterno{width: 55% !important;}
+}
+/* botões referentes na navegação do topo */
+
+
+.navbar-brand{
+	padding: 5px 10px !important;
+	background-color: #ffffff !important;
+}
+
+@media only screen and (min-width: 991px) {
+	.mostraLabelMenu{
+		display: none;
+	}
+	.mostraLabelMenuInterno{
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.mostraLabelMenuInterno{
+		display: none;
+	}
+}
